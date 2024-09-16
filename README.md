@@ -3,7 +3,7 @@
 Welcome to my little corner of GitHub, where ideas become code and projects come to life. I’m a **web developer** and lifelong learner, always on the lookout for exciting challenges that push my skills to the next level.
 
 ## 🚀 What I’m Up To
-- 🔭 Currently building **BrenPedia**_(https://brenpedia.com)_, a project aimed at making information accessible and engaging.
+- 🔭 Currently building [BrenPedia]_(https://brenpedia.com)_, a project aimed at making information accessible and engaging.
 - 💻 Diving deep into **web development**, with a focus on both **frontend** and **backend** technologies.
 - 🌱 On a continuous journey to master new technologies and frameworks to stay ahead of the curve.
 
