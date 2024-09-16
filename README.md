@@ -3,7 +3,7 @@
 Welcome to my little corner of GitHub, where ideas become code and projects come to life. I’m a **web developer** and lifelong learner, always on the lookout for exciting challenges that push my skills to the next level.
 
 ## 🚀 What I’m Up To
-- 🔭 Currently building [BrenPedia]_(https://brenpedia.com)_, a project aimed at making information accessible and engaging.
+- 🔭 Currently building [BrenPedia](https://brenpedia.com), a project aimed at making information accessible and engaging.
 - 💻 Diving deep into **web development**, with a focus on both **frontend** and **backend** technologies.
 - 🌱 On a continuous journey to master new technologies and frameworks to stay ahead of the curve.
 
@@ -12,10 +12,10 @@ Welcome to my little corner of GitHub, where ideas become code and projects come
 - 📫 Want to get in touch? Drop me an email: [ebrentinambunan@yahoo.com](mailto:ebrentinambunan@yahoo.com)
 
 ## 🛠️ My Skills & Tools
-- **Languages**: JavaScript, PHP, HTML, CSS
-- **Frameworks**: Laravel, Vue.js, Tailwind CSS
-- **Tools**: Git, VS Code, Figma
-- **Databases**: MySQL, PostgreSQL
+- **Languages**: JavaScript, PHP, Python, Golang, HTML, CSS
+- **Frameworks**: Laravel, Vue.js, Django, Gin,Tailwind CSS
+- **Tools**: Git, VS Code, windows, Linux.
+- **Databases**: MySQL, PostgreSQL, Sqlite.
 
 ## ⚡ A Few Fun Facts
 - I have a **huge passion for clean, functional design** and spend hours perfecting tiny details.
