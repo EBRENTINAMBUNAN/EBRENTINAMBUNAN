@@ -1,28 +1,19 @@
-# 👋 Hi there, I'm **EBRENTINAMBUNAN**!
+# Welcome to My GitHub 👋
 
-Welcome to my little corner of GitHub, where ideas become code and projects come to life. I’m a **web developer** and lifelong learner, always on the lookout for exciting challenges that push my skills to the next level.
+## About Me
+Hi! I'm Ebren Tinambunan, a passionate developer specializing in building dynamic web applications, with a focus on backend and frontend technologies. I love working on open-source projects and continuously learning new technologies.
 
-## 🚀 What I’m Up To
-- 🔭 Currently building [BrenPedia](https://brenpedia.com), a project aimed at making information accessible and engaging.
-- 💻 Diving deep into **web development**, with a focus on both **frontend** and **backend** technologies.
-- 🌱 On a continuous journey to master new technologies and frameworks to stay ahead of the curve.
+- 🔭 Currently working on: [BrenPedia](https://brenpedia.com)
+- 🌱 Learning: Laravel, Vue.js, Tailwind CSS
+- 💬 Ask me about: Web development, APIs, or Laravel
+- ⚡ Fun fact: I enjoy building interactive family tree applications!
 
-## 🌐 My Digital Footprint
-- **Portfolio/CV/Resume**: [Check it out here!](https://bendev.my.id)
-- 📫 Want to get in touch? Drop me an email: [ebrentinambunan@yahoo.com](mailto:ebrentinambunan@yahoo.com)
+## Get In Touch 📫
 
-## 🛠️ My Skills & Tools
-- **Languages**: JavaScript, PHP, Python, Golang, HTML, CSS
-- **Frameworks**: Laravel, Vue.js, Django, Gin,Tailwind CSS
-- **Tools**: Git, VS Code, windows, Linux.
-- **Databases**: MySQL, PostgreSQL, Sqlite.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebrentinambunan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrentinambunan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ebren_tinambunan)
 
-## ⚡ A Few Fun Facts
-- I have a **huge passion for clean, functional design** and spend hours perfecting tiny details.
-- When I’m not coding, you can find me **exploring new cafes**, reading about the latest tech trends, or working on personal passion projects.
-- I believe that **continuous learning** is key to innovation, and I love sharing knowledge with others.
 
-## 💬 Let’s Connect!
-Feel free to explore my repositories, leave feedback, or just say hi. I'm always open to collaboration and new ideas. Let's create something amazing together!
+Thanks for visiting my GitHub! 😊 Feel free to explore my projects and connect with me for collaboration or learning opportunities.
 
-Thanks for visiting, and don’t forget to follow along with my journey 🚀
