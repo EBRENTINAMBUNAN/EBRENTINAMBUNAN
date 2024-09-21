@@ -4,9 +4,8 @@
 Hi! I'm **Ebren Tinambunan**, a passionate developer specializing in building dynamic web applications with a focus on **backend** and **frontend** technologies. I love contributing to open-source projects and am always eager to learn new things.
 
 - 🔭 **Currently working on**: [BrenPedia](https://brenpedia.com)
-- 🌱 **Learning**: Laravel, Vue.js, Tailwind CSS
+- 🌱 **Learning**: C++, Python, Golang, Cloud Computing.
 - 💬 **Ask me about**: Web development, APIs, or Laravel
-- ⚡ **Fun fact**: I enjoy building interactive family tree applications!
 
 ---
 
